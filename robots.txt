@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://studycare.github.io/handbook-b1arz7/sitemap.xml
